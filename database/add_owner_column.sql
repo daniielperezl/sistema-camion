@@ -1,0 +1,1 @@
+ALTER TABLE stops ADD COLUMN owner VARCHAR(255) AFTER name;
