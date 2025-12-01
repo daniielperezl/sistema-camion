@@ -1,0 +1,1 @@
+ALTER TABLE stops ADD COLUMN city VARCHAR(100) AFTER route_id;
